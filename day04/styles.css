@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  padding: 30px 10px 0px 20px;
+}
+
+.title {
+  font-size: 64px;
+  font-weight: bolder;
+  margin: 10px 0px;
+}
+
+.box {
+  padding: 24px;
+  width: 300px;
+  height: 200px;
+  border: 3px solid;
+  text-align: center;
+}
+
+#text-btn {
+  margin: 10px;
+  padding: 10px 24px;
+  font-size: 12px;
+  font-weight: bold;
+}
